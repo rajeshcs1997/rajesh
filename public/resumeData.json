@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Rajesh Prajapati",
+    "occupation":"(web developer)",
+    "description":"I am currently in my last semester of B.tech CSE at SCRIET Chaudhary Charan Singh University Campus Meerut.",
+    "image":"profilepic.jpg",
+    "bio":"I am self-learner and have a keen interest in web and web application. I want to work real world software solution with a team where I can improve my skeel and learning.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "rajeshazamgarh0@gmail.com",
+    "phone": "+918279462044",
+    "address":{
+      "street":"(sector 58)",
+      "city":"(Noida)",
+      "state":"(Uttar Pradesh)",
+      "zip": "(270004)"
+    },
+    "website": "https://rajeshcs1997.github.io/info/",
+    "resumedownload":"https://rajeshcs1997.github.io/info/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100006457403972",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Rajesh15071997",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rajesh-prajapati-b0906b170/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/rajesh_azamgarh/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/rajeshcs1997",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have some skills and I am also working on some new technology.",
+    "education":[
+      {
+        "school":"Chaudhary Charan Singh University , Meerut",
+        "degree":"B.Tech",
+        "graduated":"2016-2020",
+        "description":"Computer Science and Engineering"
+      },
+      {
+        "school":"Board Of High School and Intermediate Education Uttar Pradesh",
+        "degree":"Intermediate",
+        "graduated":"2015",
+        "description":"82%"
+      },
+      {
+        "school":"Board Of High School and Intermediate Education Uttar Pradesh",
+        "degree":"High School",
+        "graduated":"2013",
+        "description":"83.5%"
+      }
+    ],
+    
+    
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"resume",
+        "category":"Here is some small description about me",
+        "image":"work1.jpg",
+        "url":"https://rajeshcs1997.github.io/info/"
+      },
+      {
+        "title":"Form Validation",
+        "category":"A complete form using javaScript",
+        "image":"work2.jpg",
+        "url":"https://rajeshcs1997.github.io/formvalidation/"
+      },
+      {
+        "title":"Portfolio",
+        "category":"About me",
+        "image":"work3.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"That Rajesh Prajapati must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"A friend"
+      }
+    ]
+  }
+}
